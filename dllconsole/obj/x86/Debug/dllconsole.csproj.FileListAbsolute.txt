@@ -1,0 +1,9 @@
+C:\Users\Jelle\AppData\Local\Temporary Projects\dllconsole\bin\Debug\dllconsole.exe
+C:\Users\Jelle\AppData\Local\Temporary Projects\dllconsole\bin\Debug\dllconsole.pdb
+C:\Users\Jelle\AppData\Local\Temporary Projects\dllconsole\obj\x86\Debug\dllconsole.exe
+C:\Users\Jelle\AppData\Local\Temporary Projects\dllconsole\obj\x86\Debug\dllconsole.pdb
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\dllconsole\dllconsole\obj\x86\Debug\dllconsole.exe
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\dllconsole\dllconsole\obj\x86\Debug\dllconsole.pdb
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\dllconsole\dllconsole\bin\Debug\dllconsole.exe
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\dllconsole\dllconsole\bin\Debug\dllconsole.pdb
+C:\Users\Jelle\documents\visual studio 2010\Projects\dllconsole\dllconsole\obj\x86\Debug\dllconsole.csprojResolveAssemblyReference.cache
